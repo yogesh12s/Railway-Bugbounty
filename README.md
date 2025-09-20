@@ -17,15 +17,6 @@ What started as a $5 trial bug turned into a **$250 reward** 🎉 — thanks to 
 
 ---
 
-## 📷 Proof of Concept
-- Screenshot 1: Initial account with $5 credit.  
-- Screenshot 2: After ~90% usage.  
-- Screenshot 3: New account with $5 reissued credit.  
-
-*(Screenshots not shared publicly here for security reasons.)*
-
----
-
 ## ⚡ Impact
 - **Type:** Business logic flaw  
 - **Effect:** Unlimited free trial credits could be claimed  
